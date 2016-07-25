@@ -9,7 +9,9 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+{
+    NSInteger _num;
+}
 @end
 
 @implementation AppDelegate
